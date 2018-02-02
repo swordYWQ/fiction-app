@@ -1,0 +1,23 @@
+{
+  "android": {
+    "AppName": "FictionApp",
+    "AppId": "com.alibaba.weex.fiction",
+    "SplashText": "Hello\nWeex Fiction",
+    "WeexBundle": "index.js"
+  },
+  "ios": {
+    "AppId": "com.alibaba.weex",
+    "AppName": "WeexApp",
+    "Version": "1.0.0",
+    "BuildVersion": "1.0.0",
+    "WeexBundle": "index.js",
+    "CodeSign": "",
+    "Profile": ""
+  },
+  "name": "FictionApp",
+  "description": "A weex project",
+  "version": "1.0.0",
+  "author": "weiqiang.yu",
+  "unit": true,
+  "autoInstall": "npm"
+}
